@@ -1,4 +1,3 @@
-# ola_dashboard
 # OLA Data Analyst Project — Power BI Dashboard
 
 ## 📌 **Project Overview**
