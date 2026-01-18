@@ -134,10 +134,6 @@ LIMIT 5;
 ---
 
 ##  📊 **Dashboard Demo Preview**
- 
+ https://github.com/NooraAshraf/ola_dashboard/blob/main/ola%20dashboard.png
 
-
-
---
-✔ Dataset download link
-✔ Live Power BI Service link (optional)
+ ---
